@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0EA",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -17,23 +17,38 @@
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
+				"Linux",
 				"Android",
 				"HoloLens"
 			]
 		},
 		{
-			"Name": "OculusOpenXR",
+			"Name": "OculusVR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"IOS",
-		"Linux",
 		"Mac",
 		"PS4",
 		"PS5",
