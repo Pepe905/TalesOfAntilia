@@ -53,6 +53,17 @@
 				},
 				{
 					"mode": "joystick",
+					"path": "/user/hand/right/input/thumbstick",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/TeleportRight"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
 					"path": "/user/hand/left/input/thumbstick",
 					"inputs":
 					{
@@ -151,5 +162,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "TalesofAntilia-19764885"
 }
