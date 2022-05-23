@@ -74,13 +74,13 @@
 					}
 				},
 				{
-					"mode": "joystick",
-					"path": "/user/hand/right/input/joystick",
+					"mode": "button",
+					"path": "/user/hand/left/input/y",
 					"inputs":
 					{
-						"click":
+						"touch":
 						{
-							"output": "/actions/main/in/TeleportRight"
+							"output": "/actions/main/in/ButtonY"
 						}
 					}
 				},
@@ -195,5 +195,5 @@
 			]
 		}
 	},
-	"description": "TalesofAntilia-19764885"
+	"description": "TalesofAntilia-19505902"
 }
