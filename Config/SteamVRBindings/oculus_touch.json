@@ -85,6 +85,17 @@
 					}
 				},
 				{
+					"mode": "button",
+					"path": "/user/hand/right/input/b",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ButtonB"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/left/input/joystick",
 					"inputs":
