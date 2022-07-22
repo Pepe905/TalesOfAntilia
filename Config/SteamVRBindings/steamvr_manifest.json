@@ -176,7 +176,7 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/ButtonA",
+			"name": "/actions/main/in/ButtonY",
 			"type": "boolean"
 		},
 		{
@@ -253,6 +253,10 @@
 		},
 		{
 			"name": "/actions/main/in/ButtonB",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ButtonA",
 			"type": "boolean"
 		},
 		{
@@ -567,7 +571,7 @@
 			"/actions/main/in/MenuToggleLeft": "MenuToggleLeft",
 			"/actions/main/in/MenuToggleRight": "MenuToggleRight",
 			"/actions/main/in/TeleportRight": "TeleportRight",
-			"/actions/main/in/ButtonA": "ButtonA",
+			"/actions/main/in/ButtonY": "ButtonY",
 			"/actions/main/in/VREditor_Left_WorldMovement": "VREditor_Left_WorldMovement",
 			"/actions/main/in/VREditor_Left_Modifier": "VREditor_Left_Modifier",
 			"/actions/main/in/VREditor_Left_TrackpadDown": "VREditor_Left_TrackpadDown",
@@ -587,6 +591,7 @@
 			"/actions/main/in/VREditor_Right_Touch": "VREditor_Right_Touch",
 			"/actions/main/in/VREditor_Right_Modifier2": "VREditor_Right_Modifier2",
 			"/actions/main/in/ButtonB": "ButtonB",
+			"/actions/main/in/ButtonA": "ButtonA",
 			"/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d": "MovementAxisLeft",
 			"/actions/main/in/GrabAxisLeft axis": "GrabAxisLeft",
 			"/actions/main/in/TriggerAxisLeft axis": "TriggerAxisLeft",
