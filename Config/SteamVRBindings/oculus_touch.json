@@ -75,12 +75,12 @@
 				},
 				{
 					"mode": "button",
-					"path": "/user/hand/right/input/a",
+					"path": "/user/hand/left/input/y",
 					"inputs":
 					{
 						"click":
 						{
-							"output": "/actions/main/in/ButtonA"
+							"output": "/actions/main/in/ButtonY"
 						}
 					}
 				},
@@ -92,6 +92,17 @@
 						"click":
 						{
 							"output": "/actions/main/in/ButtonB"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/a",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ButtonA"
 						}
 					}
 				},
