@@ -260,6 +260,10 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/Button X",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d",
 			"type": "vector2"
 		},
@@ -592,6 +596,7 @@
 			"/actions/main/in/VREditor_Right_Modifier2": "VREditor_Right_Modifier2",
 			"/actions/main/in/ButtonB": "ButtonB",
 			"/actions/main/in/ButtonA": "ButtonA",
+			"/actions/main/in/Button X": "Button X",
 			"/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d": "MovementAxisLeft",
 			"/actions/main/in/GrabAxisLeft axis": "GrabAxisLeft",
 			"/actions/main/in/TriggerAxisLeft axis": "TriggerAxisLeft",
