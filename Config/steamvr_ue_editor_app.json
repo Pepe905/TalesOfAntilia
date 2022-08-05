@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.talesofantilia-20280985.unrealeditor.exe",
+			"app_key": "application.generated.ue.tales-of-antilia-20280985.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "D:/Games Academy/_2_Semester/Projektarbeit_TalesOfAntilia/TalesOfAntilia/TalesOfAntilia/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "TalesofAntilia-20280985 [UE Editor]"
+					"name": "Tales of Antilia-20280985 [UE Editor]"
 				}
 			}
 		}
